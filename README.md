@@ -1,3 +1,5 @@
+# Here i am attaching some api request projects along with the source i used.
+
 # API-Requests
 
 API stands for Application Programming Interface. It is a set of rules that allows different software entities to communicate with each other. APIs define the methods and data formats that applications can use to interact with external software components, operating systems, or microservices. APIs are widely used to enable integration between different systems, allowing data exchange and functionality access.
